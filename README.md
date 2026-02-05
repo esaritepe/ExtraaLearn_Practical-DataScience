@@ -1,5 +1,9 @@
 # ExtraaLearn - Practical Data Science
 
+<p align="center">
+  <img src="https://substack-post-media.s3.amazonaws.com/public/images/79f46b89-ee08-4610-8464-ce5dfd4434bf_1600x1000.jpeg"/>
+</p>
+
 Background
 ---------------
 * The EdTech industry has been surging in the past decade, with a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023.
